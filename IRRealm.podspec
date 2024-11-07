@@ -1,7 +1,7 @@
 # coding: utf-8
 Pod::Spec.new do |s|
   s.name                    = 'IRRealm'
-  version                   = '10.54.1'
+  version                   = '10.54.1.e'
   s.version                 = version
   s.cocoapods_version       = '>= 1.10'
   s.summary                 = 'Realm is a modern data framework & database for iOS, macOS, tvOS & watchOS.'
